@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+}
+h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+}
+
+.poster {
+  width: 50%;
+  color: white;
+  margin-left: 25%;
+  margin-top: 150px;
+  text-align: center;
+}
+
+img {
+  border: 5px solid white;
+  width: 100%;
+}

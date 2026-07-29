@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+}
+
+h2[id='red'] {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#orange {
+  color: orange;
+}
+
+#green {
+  color: green;
+}
+
+#yellow {
+  color: yellow;
+}
