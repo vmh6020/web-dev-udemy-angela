@@ -1,0 +1,26 @@
+{
+  "name": "html-porfolio",
+  "version": "1.0.0",
+  "description": "All Project from the Udemy fullstack course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmh6020/html-porfolio.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vmh6020/html-porfolio/issues"
+  },
+  "homepage": "https://github.com/vmh6020/html-porfolio#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "prettier": "^3.9.6"
+  }
+}

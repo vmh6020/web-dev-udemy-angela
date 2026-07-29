@@ -1,2 +1,3 @@
-# html-porfolio
-All Project from the Udemy fullstack course
+# WEB DEVELOPMENT UDEMY
+
+Practice Exercises and Projects From Angela Udemy FullStack Course
