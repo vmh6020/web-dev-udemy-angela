@@ -1,0 +1,24 @@
+h1,
+h2 {
+  color: blueviolet;
+}
+
+div > p {
+  color: firebrick;
+}
+
+body li {
+  color: blue;
+}
+
+/* .box li {
+  color: grey;
+} */
+
+li.done {
+  color: seagreen;
+}
+
+ul p {
+  font-size: 0.5rem;
+}
